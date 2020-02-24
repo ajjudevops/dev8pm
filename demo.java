@@ -2,6 +2,11 @@
 
 class Bank
 {
+  void Depsite()
+  {
+    bal=bal+amount
+  }
+
   p.s.void main()
   {
      s.o.print("code");
