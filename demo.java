@@ -2,6 +2,11 @@
 
 class Bank
 {
+  void Withdraw()
+  {
+    bal=bal-amount
+  }
+
   void Depsite()
   {
     bal=bal+amount
