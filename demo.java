@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+CODE-2
+CODE-2
+CODE-2
+
+CODE-1
+CODE-1
+CODE-1
+CODE-1
+>>>>>>> a4ba37b... commit-2
 
 
 class Bank
