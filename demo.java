@@ -1,3 +1,23 @@
+
+
+class Bank
+{
+  p.s.void main()
+  {
+     s.o.print("code");
+  }  
+}
+
+
+
+
+
+
+
+
+
+
+
 class Master
 {
   s.o.print(" *** Master Code *** ");
