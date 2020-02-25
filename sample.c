@@ -1,3 +1,19 @@
+void code-B()
+{
+  printf("code-2");
+  printf("code-2");
+  printf("code-2");
+  printf("code-2");
+}
+
+void code-A()
+{
+  printf(" code-1 ");
+  printf(" code-1 ");
+  printf(" code-1 ");
+  printf(" code-1 ");
+
+}
 void sample code
 ...................
    repo
