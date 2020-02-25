@@ -1,3 +1,10 @@
+class Chef
+{
+  Cookbooks
+  RUBY
+  resources
+}
+
 class Ansible
 {
   playbooks
