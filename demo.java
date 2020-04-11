@@ -1,11 +1,11 @@
-class Chef
+class puppet
 {
   Cookbooks
   RUBY
   resources
 }
 
-class Ansible
+class saltstack
 {
   playbooks
   YAML
